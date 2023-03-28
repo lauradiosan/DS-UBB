@@ -109,7 +109,7 @@
 
 ### Data
 - dataset description [link](DS-2022-2023\Data\polipozaDescription.docx)
-- dataset [link](DS-2022-2023\Data\polipozaData.docx)
+- dataset [link]ProjectsData/polipozaData.docx)
 
 ### Bibliografy
 - C Morse, J., Miller, C., & Senior, B. (2021). Management of chronic rhinosinusitis with nasal polyposis in the era of biologics. Journal of Asthma and Allergy, 873-882. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285230/)
