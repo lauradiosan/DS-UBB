@@ -30,7 +30,7 @@
 
 
 ### Data
-- Cluj Hospital dataset of radiomic features extracted from 35 MRI images [link](DS-2022-2023\Data\radiomicFeatsCluj35.zip)
+- Cluj Hospital dataset of radiomic features extracted from 35 MRI images [link](DS-UBB\2022-2023\ProjectsData\radiomicFeatsCluj35.zip)
 - 26 MR datasets - https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-MRI#327726088352fbd47ff4147b574d72f5b596e4a
 - https://promise12.grand-challenge.org/ - great challenge, one can check methods, articles
 - https://prostatemrimagedatabase.com/ - 230 datasets - I have no info about quality
