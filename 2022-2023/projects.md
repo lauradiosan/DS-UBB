@@ -1,7 +1,6 @@
 # Data Science projects 2022-2023
 
-1. [Project **Image processing for prostate cancer**](#image-processing-for-prostate-cancer)
-2. [Project **Classification of prostate biopsy**](#histopathological-image-analysis)
+1. [Project **Classification of prostate biopsy**](#histopathological-image-analysis)
 3. [Project **POSE estimation**](#chronic-rhinosinusitis-with-nasal-polyps)
 
 ## Image processing for prostate cancer
