@@ -49,7 +49,7 @@ Project steps:
 
 **Application development**
 - using any programming language and technologies 
-- codebases must be submitted [here](), before deadlines
+- codebases must be submitted [here](https://classroom.github.com/a/ZJPHNuPK), before deadlines
 - [good tips](https://www.deeplearningbook.org/)
 
 **Technical report**
