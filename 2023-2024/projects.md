@@ -53,7 +53,7 @@ Project steps:
 - [good tips](https://www.deeplearningbook.org/)
 
 **Technical report**
-- must follows this template [link](Report/texModel/model.tex) and the recommended structure [link](Report/readme.md). 
+- must follows this template [link](https://github.com/lauradiosan/DS-UBB/tree/main/2023-2024/Report/texModel/model.tex) and the recommended structure [link](https://github.com/lauradiosan/DS-UBB/tree/main/2023-2024/Report/readme.md). 
 
 
 **Final presentation**
@@ -88,7 +88,7 @@ Project steps:
 - Zaki, N., Qin, W., & Krishnan, A. (2023). Graph-based methods for cervical cancer segmentation: Advancements, limitations, and future directions. AI Open. [link](https://www.sciencedirect.com/science/article/pii/S2666651023000086)
 - Kurata, Y., Nishio, M., Moribata, Y., Kido, A., Himoto, Y., Otani, S., ... & Nakamoto, Y. (2021). Automatic segmentation of uterine endometrial cancer on multi-sequence MRI using a convolutional neural network. Scientific Reports, 11(1), 14440.[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8280152/#MOESM1)
 - Lin, Y. C., Lin, Y., Huang, Y. L., Ho, C. Y., Chiang, H. J., Lu, H. Y., ... & Lin, G. (2023). Generalizable transfer learning of automated tumor segmentation from cervical cancers toward a universal model for uterine malignancies in diffusion-weighted MRI. Insights into Imaging, 14(1), 14. [link](https://insightsimaging.springeropen.com/articles/10.1186/s13244-022-01356-8)
-
+- Afshar, P., Mohammadi, A., Plataniotis, K. N., Oikonomou, A., & Benali, H. (2019). From handcrafted to deep-learning-based cancer radiomics: challenges and opportunities. IEEE Signal Processing Magazine, 36(4), 132-160. [link](https://arxiv.org/pdf/1808.07954.pdf)
 
 </details>
 
