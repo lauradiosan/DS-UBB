@@ -38,7 +38,7 @@ The project you have to do is an opportunity to explore an Artificial Intelligen
 
 **Application development**
 - using any programming language and technologies 
-- codebases must be submitted [here](https://classroom.github.com/a/ZJPHNuPK), before deadlines
+- codebases must be submitted [here](https://classroom.github.com/a/wRjthGYY), before deadlines
 - [good tips](https://www.deeplearningbook.org/)
 
 **Technical report**

@@ -3,10 +3,10 @@
 
 | App/code | Points | Report | Points | Deadline |
 | :--- | :---: | :--- |:---: |:---: |
-| -  | -   | problem description; survey of related work | 10 | Week4 |
-| EDA | 15 | EDA | 15 | Week6 |
-| AI&tinyData | 10 | Description of the pipeline & first results | 10 | Week8 |
-| AI&realData | 20 | new experiments & results | 20 | Week12 |
+| -  | -   | problem description; survey of related work | 10 | Week5 |
+| EDA | 15 | EDA | 15 | Week7 |
+| AI&tinyData | 10 | Description of the pipeline & first results | 10 | Week9 |
+| AI&realData | 20 | new experiments & results | 20 | Week13 |
 |  |  | SWOT analysis and project presentation | 20 | Week13-14 |	
 
 SAS certification - 20 points
