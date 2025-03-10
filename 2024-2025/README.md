@@ -7,9 +7,9 @@
 
 Week1: Opening :)
 
-Week2: [Introduction]()
+Week2: [Introduction](ML_intro.ppt)
 
-Week3: ML [review1](Examples/MLalgorithms.ipynb) [review2](Examples/MLopenCourse.ipynb)
+Week3: ML [regression](ML_regression.ppt) [example1](Examples/MLalgorithms.ipynb) [example2](Examples/MLopenCourse.ipynb)
 
 
 ## About projects
@@ -153,9 +153,11 @@ Some models for emotion recognition in faces [model1](https://huggingface.co/Ele
 
 
 <details>
-    <summary> 4. Other economical problems - TBA </summary>
+    <summary> 4. ML for complex networks </summary>
 
 ### Aim 
+Mapping key decision-making agents, their preferences and behavior. Estimate the future behaviour.
+
 
 ### TODOlist
 1. Problem definition (details about inputs and outputs)
@@ -164,16 +166,34 @@ Some models for emotion recognition in faces [model1](https://huggingface.co/Ele
 4. Improvements
 
 ### Data
+- Overview of French parliamentary data (2017-2022) [2017-2022](https://data.assemblee-nationale.fr/archives-anterieures/archives-15e) [2022-2024](https://data.assemblee-nationale.fr/)
+- Roll-call votes in the French Assembly (2017-2022) [2017-2022](https://data.assemblee-nationale.fr/archives-anterieures/archives-15e/scrutins) [2022-2024](https://data.assemblee-nationale.fr/archives-16e/votes)
+- Dutch parliamentary data, including laws, amendments, and MP bios. Data coverage starts from 1995 and is continuously updated [Open Kamer](https://www.openkamer.org/)
+- Hungarian and Czech parliamentary speeches, bills, and laws [link](https://parllawspeech.org/repository/)
+- Parliamentary speeches dataset covering nine democracies, including Austria, Czech Republic, Germany, Denmark, Spain, Netherlands, New Zealand, Sweden, and the United Kingdom [link](https://dataverse.harvard.edu/dataverse/ParlSpeech)
+
+
+
 
 
 ### Bibliografy
 
+
+Ding, J., Liu, C., Zheng, Y., Zhang, Y., Yu, Z., Li, R., ... & Li, Y. (2024). Artificial intelligence for complex network: Potential, methodology and application. arXiv preprint arXiv:2402.16887. [link](https://arxiv.org/pdf/2402.16887)
 </details>
-<!-- 
+
+ 
 <details>
-    <summary> 4.  </summary>
+    <summary> 5. Market research </summary>
 
 ### Aim 
+
+Word / text completion: as part of the analysis of a credit file, we have the section "competitive environment analysis" in the credit report (as in teh below example). The project aim is to develop an intelligent system that should search the WWW and bring what it finds about the respective field of activity and a few words about what the client actually does. The algorithm should bring what it finds about that market. 
+
+Example for company "XYZ SRL – productia de bauturi alcolice si spirtoase"
+
+![alt text](image.png)
+
 
 ### TODOlist
 1. Problem definition (details about inputs and outputs)
@@ -182,12 +202,22 @@ Some models for emotion recognition in faces [model1](https://huggingface.co/Ele
 4. Improvements
 
 ### Data
-
+A consistent population of such examples: the company, the company's field of activity, and what the analyst wrote in the report. 
 
 ### Bibliografy
 
+Example1 [link](https://www.analyticsvidhya.com/blog/2025/02/financial-market-analysis-ai-agent/)
+
+Example2 [link](https://www.getdynamiq.ai/post/build-an-intelligent-agent-system-for-market-analysis-with-deepseek)
+
+
+Competitive analysis [link](https://asana.com/resources/competitive-analysis-example)
+
+Named Entity Recognition [link](https://asana.com/resources/competitive-analysis-example) [link](https://www.geeksforgeeks.org/named-entity-recognition/)
 </details>
 
+
+<!--
 <details>
     <summary> 5.  </summary>
 
