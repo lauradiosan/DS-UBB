@@ -192,8 +192,7 @@ Word / text completion: as part of the analysis of a credit file, we have the se
 
 Example for company "XYZ SRL – productia de bauturi alcolice si spirtoase"
 
-![visual example](image.png)
-
+<img src="lectures/image.png" width="200">
 
 ### TODOlist
 1. Problem definition (details about inputs and outputs)
