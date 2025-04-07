@@ -71,6 +71,7 @@ The project you have to do is an opportunity to explore an Artificial Intelligen
 ### Data
 - dataset1 [link](https://synthrad2023.grand-challenge.org/)
 - dataset2 [link](https://github.com/SynthRAD2023/preprocessing)
+- Cluj dataset [link](projects\2024-2025\CervicalCancer\Data)
 
 ### Bibliografy
 - Bourgioti, C., Chatoupis, K., & Moulopoulos, L. A. (2016). Current imaging strategies for the evaluation of uterine cervical cancer. World journal of radiology, 8(4), 342. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4840192/)
