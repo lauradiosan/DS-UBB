@@ -23,7 +23,7 @@
 
 9. ML - NLP  [text mining](lectures/06_TextMining.ppt)
 
-10. ML - NLP [text tokenisers](lectures/code/textTokenisers.ipynb) 
+10. ML - NLP [text tokenisers](lectures/code/textTokenisers) 
 
 11. ML - NLP [text transformers](lectures/07_transformer.ppt)
 
