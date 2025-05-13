@@ -25,9 +25,9 @@
 
 10. ML - NLP [text tokenisers](lectures/code/textTokenizers) 
 
-11. ML - NLP [text transformers](lectures/07_transformer.ppt)
+11. ML - NLP [text transformers](lectures/07_transformer.pptx)
 
-12. ML - Graphs [Graph-based NNs](lectures/08_graphNNs.ppt)
+12. ML - Graphs [Graph-based NNs](lectures/08_graphNNs.pptx)
 
 13. AI [etichs and fairness](lectures/09_fairness.ppt)
 
