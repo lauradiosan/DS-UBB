@@ -5,11 +5,31 @@
 
 ## Lectures
 
-Week1: Opening :)
+1. Opening :)
 
-Week2: [Introduction](ML_intro.ppt)
+2. [Introduction](01_ML_intro.ppt)
 
-Week3: ML [regression](ML_regression.ppt) [example1](Examples/MLalgorithms.ipynb) [example2](Examples/MLopenCourse.ipynb)
+3. [Data normalisation](Code/dataNormalisationCorrelation/IM-dataNormalisation.ipynb) [Data correlation](Code/dataNormalisationCorrelation/IM-dataCorrelation.ipynb)
+
+4. [ML - regression](02_ML_regression.ppt) [example1](Code/ML/MLalgorithms.ipynb) [example2](Code/ML/MLopenCourse.ipynb)
+
+5. [ML - ANN](03_ML_ANN.ppt)  [example1](Code/ML/annAndCnns.ipynb)
+
+6. ML - Computer Vision [image classification examples](code/imgProcessingANN)
+
+7. ML - Computer Vision [image detection](04_imgDetection.ppt)
+
+8. ML - Computer Vision [image segmentation](05_imgSegmentation.ppt)
+
+9. ML - NLP  [text mining](06_TextMining.ppt)
+
+10. ML - NLP [text tokenisers](code/textTokenisers.ipynb) 
+
+11. ML - NLP [text transformers](07_transformer.ppt)
+
+12. ML - Graphs [Graph-based NNs](08_grphNNs.ppt)
+
+13. AI [etichs and fairness](09_fairness.ppt)
 
 
 ## About projects
