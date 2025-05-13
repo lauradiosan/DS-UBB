@@ -27,7 +27,7 @@
 
 11. ML - NLP [text transformers](lectures/07_transformer.ppt)
 
-12. ML - Graphs [Graph-based NNs](lectures/08_grphNNs.ppt)
+12. ML - Graphs [Graph-based NNs](lectures/08_graphNNs.ppt)
 
 13. AI [etichs and fairness](lectures/09_fairness.ppt)
 
