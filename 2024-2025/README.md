@@ -7,29 +7,29 @@
 
 1. Opening :)
 
-2. [Introduction](01_ML_intro.ppt)
+2. [Introduction](lectures/01_ML_intro.ppt)
 
-3. [Data normalisation](Code/dataNormalisationCorrelation/IM-dataNormalisation.ipynb) [Data correlation](Code/dataNormalisationCorrelation/IM-dataCorrelation.ipynb)
+3. [Data normalisation](lectures/code/dataNormalisationCorrelation/IM-dataNormalisation.ipynb) [Data correlation](lectures/code/dataNormalisationCorrelation/IM-dataCorrelation.ipynb)
 
-4. [ML - regression](02_ML_regression.ppt) [example1](Code/ML/MLalgorithms.ipynb) [example2](Code/ML/MLopenCourse.ipynb)
+4. [ML - regression](02_ML_regression.ppt) [example1](lectures/code/ML/MLalgorithms.ipynb) [example2](lectures/code/ML/MLopenCourse.ipynb)
 
-5. [ML - ANN](03_ML_ANN.ppt)  [example1](Code/ML/annAndCnns.ipynb)
+5. [ML - ANN](03_ML_ANN.ppt)  [example1](lectures/code/ML/annAndCnns.ipynb)
 
-6. ML - Computer Vision [image classification examples](code/imgProcessingANN)
+6. ML - Computer Vision [image classification examples](lectures/code/imgProcessingANN)
 
-7. ML - Computer Vision [image detection](04_imgDetection.ppt)
+7. ML - Computer Vision [image detection](lectures/04_imgDetection.ppt)
 
-8. ML - Computer Vision [image segmentation](05_imgSegmentation.ppt)
+8. ML - Computer Vision [image segmentation](lectures/05_imgSegmentation.ppt)
 
-9. ML - NLP  [text mining](06_TextMining.ppt)
+9. ML - NLP  [text mining](lectures/06_TextMining.ppt)
 
-10. ML - NLP [text tokenisers](code/textTokenisers.ipynb) 
+10. ML - NLP [text tokenisers](lectures/code/textTokenisers.ipynb) 
 
-11. ML - NLP [text transformers](07_transformer.ppt)
+11. ML - NLP [text transformers](lectures/07_transformer.ppt)
 
-12. ML - Graphs [Graph-based NNs](08_grphNNs.ppt)
+12. ML - Graphs [Graph-based NNs](lectures/08_grphNNs.ppt)
 
-13. AI [etichs and fairness](09_fairness.ppt)
+13. AI [etichs and fairness](lectures/09_fairness.ppt)
 
 
 ## About projects
