@@ -15,50 +15,7 @@
 
 The project you have to do is an opportunity to explore an Artificial Intelligence (AI) problem in the context of real data. The project will be evaluated both during the semester and at the end of the semester, when each team will have to present to the teaching staff the corresponding iterations of the application and the related technical report.
 
-
-**Project components**
-- short description 
-- team (max 3 members)
-- problem solving by AI/ML-based algorithms
-- application development and AI/ML integration
-    - Problem definition (details about inputs and outputs)
-    - Exploratory data analysis
-    - AI development and performance evaluation 
-    - Improvements (in terms of prediction quality and in terms of model's interpretability or explainability)
-- documentation (report)
-- final presentation
-
-**Performance of the AI models**
-1. Performance
-    - qualitative (errors, accuracy, precision, IoU, Dice, etc.)
-    - complexity (time, space/memory, FLOPs, hardware resources, etc.)
-2. Explainability
-    - [link](https://christophm.github.io/interpretable-ml-book/index.html)
-    - [link](https://ema.drwhy.ai/preface.html)
-3. Sustainability
-    - CO2 footprint of AI models
-
-**Application development**
-- using any programming language and technologies 
-- codebases must be submitted [here](https://classroom.github.com/a/Q1EYeGev), before deadlines
-- [good tips](https://www.deeplearningbook.org/)
-
-**Technical report**
-- must follows this template [link](https://github.com/lauradiosan/DS-UBB/tree/main/2025-2026/Report/texModel/model.tex) and the recommended structure [link](https://github.com/lauradiosan/DS-UBB/tree/main/2025-2026/Report/readme.md). 
-- latex sources and pdf file must be pushed in the previous repo (a folder for app, a folder for documentation)
-
-
-**Final presentation**
-- teaser (a short video presentation)
-- slides (or other presentation support)
-- project defense (oral presentation of aprox. 15 minutes based on the prepared slides/support)
-
-
-**Evaluation**
-- [criteria and points](Eval/readme.md)
-
-
-# Proposed projects
+**Suggested topics:**
 
 <details>
     <summary> 1. Nasopharyngeal carcinoma  </summary>
@@ -209,6 +166,7 @@ The project aim is to build, train and evaluate a tokeniser tailor to Romanian a
 
 6. Tepei, M., & Bloem, J. (2025, September). A linguistically-informed comparison between multilingual BERT and language-specific BERT models: The case of differential object marking in Romanian. In Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing-Natural Language Processing in the Generative AI Era (pp. 1271-1281).
 
+
 </details>
 
 <!--
@@ -224,3 +182,46 @@ The project aim is to build, train and evaluate a tokeniser tailor to Romanian a
 ### Bibliografy
 
 </details> -->
+
+
+
+**Project components**
+- short description 
+- team (max 3 members)
+- problem solving by AI/ML-based algorithms
+- application development and AI/ML integration
+    - Problem definition (details about inputs and outputs)
+    - Exploratory data analysis
+    - AI development and performance evaluation 
+    - Improvements (in terms of prediction quality and in terms of model's interpretability or explainability)
+- documentation (report)
+- final presentation
+
+**Performance of the AI models**
+1. Performance
+    - qualitative (errors, accuracy, precision, IoU, Dice, etc.)
+    - complexity (time, space/memory, FLOPs, hardware resources, etc.)
+2. Explainability
+    - [link](https://christophm.github.io/interpretable-ml-book/index.html)
+    - [link](https://ema.drwhy.ai/preface.html)
+3. Sustainability
+    - CO2 footprint of AI models
+
+**Application development**
+- using any programming language and technologies 
+- codebases must be submitted [here](https://classroom.github.com/a/Q1EYeGev), before deadlines
+- [good tips](https://www.deeplearningbook.org/)
+
+**Technical report**
+- must follows this template [link](https://github.com/lauradiosan/DS-UBB/tree/main/2025-2026/Report/texModel/model.tex) and the recommended structure [link](https://github.com/lauradiosan/DS-UBB/tree/main/2025-2026/Report/readme.md). 
+- latex sources and pdf file must be pushed in the previous repo (a folder for app, a folder for documentation)
+
+
+**Final presentation**
+- teaser (a short video presentation)
+- slides (or other presentation support)
+- project defense (oral presentation of aprox. 15 minutes based on the prepared slides/support)
+
+
+**Evaluation**
+- [criteria and points](Eval/readme.md)
