@@ -27,8 +27,7 @@ The project you have to do is an opportunity to explore an Artificial Intelligen
     - Improvements (in terms of prediction quality and in terms of model's interpretability or explainability)
 - documentation (report)
 - final presentation
-### TODOlist
-1. 
+
 **Performance of the AI models**
 1. Performance
     - qualitative (errors, accuracy, precision, IoU, Dice, etc.)
@@ -41,11 +40,12 @@ The project you have to do is an opportunity to explore an Artificial Intelligen
 
 **Application development**
 - using any programming language and technologies 
-- codebases must be submitted [here](https://classroom.github.com/a/wRjthGYY), before deadlines
+- codebases must be submitted [here](https://classroom.github.com/a/Q1EYeGev), before deadlines
 - [good tips](https://www.deeplearningbook.org/)
 
 **Technical report**
 - must follows this template [link](https://github.com/lauradiosan/DS-UBB/tree/main/2025-2026/Report/texModel/model.tex) and the recommended structure [link](https://github.com/lauradiosan/DS-UBB/tree/main/2025-2026/Report/readme.md). 
+- latex sources and pdf file must be pushed in the previous repo (a folder for app, a folder for documentation)
 
 
 **Final presentation**
@@ -59,8 +59,6 @@ The project you have to do is an opportunity to explore an Artificial Intelligen
 
 
 # Proposed projects
-
-
 
 <details>
     <summary> 1. Nasopharyngeal carcinoma  </summary>
