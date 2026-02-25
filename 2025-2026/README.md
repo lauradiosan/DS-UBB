@@ -26,8 +26,8 @@ Nasopharyngeal carcinoma (NPC) is rare in Europe, but emerging evidence suggests
 
 ### Data
 
-[NPC](2025-2026\Projects\NPC.csv) 
-TBA
+[NPC](2025-2026\\Projects\\NPC.csv) 
+
 
 ### Bibliografy
 1. National Cancer Institute. Surveillance, epidemiology, and end results (seer) program, 2025. 
