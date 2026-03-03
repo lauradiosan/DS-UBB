@@ -82,6 +82,8 @@ Despite the availability of parliamentary transcripts and political speech corpo
 
 ### Data
 
+- [parlaMint](https://www.clarin.lv/images/ParlaMint.pdf)
+
 - [PolData](https://github.com/erikgahner/PolData?tab=readme-ov-file)
 
 - [Political Speech Datasets](https://www.kaggle.com/datasets?tags=11121-Politics)
