@@ -215,7 +215,7 @@ The project aim is to build, train and evaluate a tokeniser tailor to Romanian a
 - [good tips](https://www.deeplearningbook.org/)
 
 **Technical report**
-- must follows this template [link](https://github.com/lauradiosan/DS-UBB/tree/main/2025-2026/Report/texModel/model.tex) and the recommended structure [link](https://github.com/lauradiosan/DS-UBB/tree/main/2025-2026/Report/readme.md). 
+- must follows this template [link](Report/texModel/model.tex) and the recommended structure [link](https://github.com/lauradiosan/DS-UBB/tree/main/2025-2026/Report/readme.md). 
 - latex sources and pdf file must be pushed in the previous repo (a folder for app, a folder for documentation)
 
 
