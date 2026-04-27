@@ -7,7 +7,7 @@
 
 1. Opening :)
 
-2. check this [folder](2025-2026\Lectures)
+2. check this [folder](Lectures)
 
 ## About projects
 
