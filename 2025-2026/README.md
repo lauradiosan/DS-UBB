@@ -7,9 +7,7 @@
 
 1. Opening :)
 
-2. TBA
-
-3. TBA
+2. check this [folder](2025-2026\Lectures)
 
 ## About projects
 
